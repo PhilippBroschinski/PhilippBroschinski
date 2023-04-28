@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Uuuuuuh, Github wants my personal profile, I'm getting excited ;)
 
-I'm Philipp Broschinski, currently unemployed and have been working in retail/sales for about 10 years. However, I've been interested in IT 
+I'm Philipp Broschinski 32 yo, currently unemployed and have been working in retail/sales for about 10 years. However, I've been interested in IT 
 in all its forms since I was 13 years old. While it used to be games (from open-world games to first-person shooters), today it's more meaningful 
 programs such as a home inventory management system or password generators. I'm aware of all kinds of security vulnerabilities and read daily 
 articles on sites like heise.de or tarnkappe.net, or any other wonderful website that covers these topics.
